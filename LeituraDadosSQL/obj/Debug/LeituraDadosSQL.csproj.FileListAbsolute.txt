@@ -1,0 +1,6 @@
+c:\users\thiago gabriel\documents\visual studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\bin\Debug\LeituraDadosSQL.exe.config
+c:\users\thiago gabriel\documents\visual studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\bin\Debug\LeituraDadosSQL.exe
+c:\users\thiago gabriel\documents\visual studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\bin\Debug\LeituraDadosSQL.pdb
+c:\users\thiago gabriel\documents\visual studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\obj\Debug\LeituraDadosSQL.exe
+c:\users\thiago gabriel\documents\visual studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\obj\Debug\LeituraDadosSQL.pdb
+C:\Users\Thiago Gabriel\Documents\Visual Studio 2015\Projects\LeituraDadosSQL\LeituraDadosSQL\obj\Debug\LeituraDadosSQL.csprojResolveAssemblyReference.cache
